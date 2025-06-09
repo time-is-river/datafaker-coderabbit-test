@@ -1,4 +1,8 @@
 
+# 从github上fork的开源项目 用作coderabbit的使用测试
+# 原项目的fork地址：https://github.com/datafaker-net/datafaker
+# dev commit
+# 原项目简介如下
 # Datafaker
 
 [![Maven Status](https://maven-badges.herokuapp.com/maven-central/net.datafaker/datafaker/badge.svg?style=flat)](http://mvnrepository.com/artifact/net.datafaker/datafaker)
